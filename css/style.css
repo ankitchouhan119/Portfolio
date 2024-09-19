@@ -106,6 +106,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 2rem;
 
 }
 
@@ -114,7 +115,7 @@ section {
 
 
 .home-img img {
-    width: 35vw;
+    width: 30vw;
     border: .2rem var(--second-bg-color);
     box-shadow: 0 0 1.5rem var(--bg-color), 0 0 1rem #0ef, 0 0 1rem #6699ff;
 
